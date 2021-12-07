@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cmhopehill
-- 👀 I’m interested in Sports Analytics, Data Analytics, and Data Science
+- 👀 I’m interested in Coding for Good, Data Science, and Sports Analytics.
 - 🌱 I’m currently learning Data Science at General Assembly
-- 💞️ I’m looking to collaborate on Small Projects currently, and larger projects post-course
-- 📫 How to reach me cmhopehill@gmail.com
+- 💞️ I’m looking to collaborate on projects that have a positive impact and aim to improve our world.
+- 📫 How to reach me cmhopehill@gmail.com also at linkedin/cmhopehill
 
 <!---
 cmhopehill/cmhopehill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
